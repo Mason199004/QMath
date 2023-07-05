@@ -10,7 +10,7 @@
 #define i32 int32_t
 
 
-void QMath_Test();
+
 
 static __m128i Vec3Mask;
 
